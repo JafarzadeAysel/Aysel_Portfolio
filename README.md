@@ -1,7 +1,6 @@
-# Welcome to Aysel's Portfolio
-Example data science portfolio
+## Welcome to Aysel's Portfolio
 
-# [Project 1: Bank Churn Prediction](https://github.com/JafarzadeAysel/Churn-Prediction) 
+## [Project 1: Bank Churn Prediction](https://github.com/JafarzadeAysel/Churn-Prediction) 
 * Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job.
 * Scraped over 1000 job descriptions from glassdoor using python and selenium
 * Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark. 
