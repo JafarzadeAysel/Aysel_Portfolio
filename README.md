@@ -17,7 +17,7 @@ Are you interested in "How much calorie, vitamins and minerals you get from your
 * Built Data Frame object that shows all nutrients in specified combination
 * Built visualizations related to vitamins and minerals
 
-![](/images/vitamin%20and%20minerals.jpg)
+![](/images/vitamin%20and%20minerals.PNG)
 
 
 
