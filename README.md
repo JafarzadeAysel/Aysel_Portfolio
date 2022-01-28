@@ -7,8 +7,8 @@
 * Used GridsearchCV for Hyper Parameter Tuning and
 * Visualized ROC-AUC curve to evaluate the performance of model
 
+![](/images/image_2022-01-28_044546.png)
 ![](/images/image_2022-01-28_043340.png)
-
 
 
 # Ken_Portfolio
