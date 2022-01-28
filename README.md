@@ -1,4 +1,4 @@
-## Welcome to Aysel's Portfolio
+# Welcome to Aysel's Portfolio
 
 ## [Project 1: Bank Loan Default Prediction](https://github.com/JafarzadeAysel/Bank_Loan_Default_Prediction) 
 * Built a tool to understand the past customers' profile in order to minimize the risk of future loan defaults
