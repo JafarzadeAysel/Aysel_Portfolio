@@ -20,4 +20,10 @@ Are you interested in "How much calorie, vitamins and minerals you get from your
 ![](/images/vitamin_and_minerals.PNG)
 
 
+## [Project 3: Analysis of Top 3 Cryptocurrencies of 2021](https://github.com/JafarzadeAysel/Analysis_of_Top3_Cryptocurrencies_of_2021) 
+* This analysis includes 24h %Change in Price, Historical Prices, Market Caps and Total Volumes of Cryptocurrencies
+* Extracted data through free API
+* Built different functions to simplify data extraction
+* Compared Top 3 Cryptocurrencies of last year with various indicators
 
+![](/images/Cryptocurrencies_market_caps.PNG)
