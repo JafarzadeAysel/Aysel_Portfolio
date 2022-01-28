@@ -1,6 +1,6 @@
 ## Welcome to Aysel's Portfolio
 
-## [Project 1: Bank Loan Default Predictionn](https://github.com/JafarzadeAysel/Bank_Loan_Default_Prediction) 
+## [Project 1: Bank Loan Default Prediction](https://github.com/JafarzadeAysel/Bank_Loan_Default_Prediction) 
 * Built a tool to understand the past customers' profile in order to minimize the risk of future loan defaults
 * Cleaned dataset and use Future Selection Method
 * Tried SVM, Random Forest, Logistic Regression and best one using K-Fold Cross-Validation
