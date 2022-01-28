@@ -1,11 +1,11 @@
 ## Welcome to Aysel's Portfolio
 
-## [Project 1: Bank Churn Prediction](https://github.com/JafarzadeAysel/Churn-Prediction) 
-* Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job.
-* Scraped over 1000 job descriptions from glassdoor using python and selenium
-* Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark. 
-* Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model. 
-* Built a client facing API using flask 
+## [Project 1: Bank Loan Default Predictionn](https://github.com/JafarzadeAysel/Bank_Loan_Default_Prediction) 
+* Built a tool to understand the past customers' profile in order to minimize the risk of future loan defaults
+* Cleaned dataset and use Future Selection Method
+* Tried SVM, Random Forest, Logistic Regression and best one using K-Fold Cross-Validation
+* Used GridsearchCV for Hyper Parameter Tuning and
+* Visualized ROC-AUC curve to evaluate the performance of model
 
 
 
