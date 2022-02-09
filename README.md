@@ -5,7 +5,7 @@
 * Scraped over 3000 car advertisement descriptions from Turbo.az using Python
 * Cleaned dataset, analyzed patterns and proceeded with Feature Engineering
 * Tested different algorithms for given regression problem such as Linear, Lasso and Decision Tree Regressions
-* Compared the Accuracy Score and Root Mean Squared Error of these models to see which model performs better
+* Compared the Accuracy Score and Root Mean Squared Error of these models to see which model performs better 
 
 ![](/images/price_distribution_cars.png)
 
